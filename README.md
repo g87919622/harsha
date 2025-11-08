@@ -1,6 +1,6 @@
 # Nebula - Interactive Digital Portfolio
 
-![Nebula Background](/assets/img/nebula-bg.jpg)
+![Nebula Background](/assets/img/img%201.png)
 
 Nebula is a cutting-edge interactive portfolio website featuring advanced animations, WebGL effects, and responsive design. This project showcases the latest frontend technologies including fluid simulations, particle systems, and interactive UI elements that respond to user interactions.
 
